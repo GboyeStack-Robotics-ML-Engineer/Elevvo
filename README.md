@@ -1,4 +1,4 @@
-# Internship Projects at Eleevo Pathways
+# Internship Projects at Elevvo Pathways
 
 This repository contains the Jupyter notebooks for the four major tasks completed during my internship at Eleevo Pathways. Each notebook details a machine learning project, from data exploration and preprocessing to model building and evaluation.
 
